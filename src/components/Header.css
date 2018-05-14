@@ -1,0 +1,16 @@
+
+.section-header{
+    padding-top: 15px;
+}
+.section{
+    font-family: 'Kanit', sans-serif;
+    background-image: url(https://www.evolutionofwork.net/uploads/banner/banner_exp.jpg);
+    -webkit-background-size: cover;
+     background-size: cover;
+     width: 100vw;
+     height: 60vh;
+}
+.telephone{
+    font-family: 'Kanit', sans-serif;
+    color: #FF4600;
+}
